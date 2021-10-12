@@ -7,4 +7,4 @@
     copy:
       src: /root/.jenkins/workspace/mvn/webapp/target/webapp.war
       dest: /media/apache-tomcat-10.0.12/webapps
-      remote_src: yes
+     
